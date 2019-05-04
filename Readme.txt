@@ -1,0 +1,1 @@
+This is the .SQL script to go with the blog post Business-requirements-Null-andHomework.
